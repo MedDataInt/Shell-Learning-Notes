@@ -27,6 +27,10 @@ Here is a typical structure of a .sh file:
    echo "Data directory: $DATA_DIR"
 
 ## How to Run a .sh File
+* if Window line exist
+  ```bash
+  dos2unix test.sh
+  ```
 * use bash or sh
 ```bash
 bash script.sh
