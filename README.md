@@ -41,7 +41,7 @@ chmod +x script.sh
 ## How to View a .sh File
 * command-line editors: nano, vim, less, cat.
   ```bash
-  nano script.sh
+  vi filter_blacklist.sh
   ```
 * Graphical editors: VSCode, Sublime Text, Notepad++
 ## Common .sh File Use Cases
